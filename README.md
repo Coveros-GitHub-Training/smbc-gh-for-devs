@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: May 14 - 16, 2024
+- Facilitator: @c4llmeco4ch
 
 ## Class Resources
 

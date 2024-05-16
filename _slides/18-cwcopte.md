@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Hello
+This is a test for a commit!
 
 ![saritocat](https://octodex.github.com/images/saritocat.png)
 {: .center}
